@@ -596,7 +596,7 @@
                             </platforms>
                         </from>
                         <to>
-                            <image>isajenkins:latest</image>
+                            <image>francoma/isajenkins:latest</image>
                             <tags>
                                 <tag>${project.version}</tag>
                                 <tag>latest</tag>
